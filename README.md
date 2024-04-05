@@ -1,1 +1,1 @@
-# tecca
+# atualização de hoje: atribuindo informações nas tabelas Categoria e Lanches, integrado ao SQL server 
